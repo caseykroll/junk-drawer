@@ -3,6 +3,8 @@
 A place to put sample code, test data and thoughts while refining ideas for other projects.
 Hopefully also a decent reference for anyone interested in any of these topics (including some )
 
+## Project Format
+
 For now, this project will be organized into different `service` folders addressing different concepts.
 Where it makes sense, the separate services will be based on Docker images with the option of composing them together.
 
